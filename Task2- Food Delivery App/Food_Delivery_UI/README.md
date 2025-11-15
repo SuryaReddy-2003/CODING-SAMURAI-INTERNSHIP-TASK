@@ -174,7 +174,7 @@ This UI is based on a typical food delivery flow:
 
 👉 Live Preview:  
 
-https://https://www.figma.com/proto/0YOLTeL5ZCVNUua4u5LDOL/Untitled?page-id=0%3A1\&node-id=4-374\&p=f\&viewport=50%2C-671%2C0.27\&t=3qGA1UTc7rc31nC1-1\&scaling=min-zoom\&content-scaling=fixed\&starting-point-node-id=4%3A374  
+https://www.figma.com/proto/0YOLTeL5ZCVNUua4u5LDOL/Untitled?page-id=0%3A1&node-id=4-374&p=f&viewport=50%2C-671%2C0.27&t=mCkvKvHpzanXPZ3s-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4%3A374 
 
 
 
@@ -219,6 +219,7 @@ Below images must be in the same folder as this README:
 \*Category: Mobile App UI Design (Food Delivery)  
 
 \*Designer: Surya Reddy  
+
 
 
 
