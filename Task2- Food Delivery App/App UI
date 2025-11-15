@@ -1,0 +1,88 @@
+Food Delivery App UI 
+
+1️⃣ **Login Screen**
+
+\- Secure login page  
+
+\- Email \& password fields  
+
+\- Login button with primary color  
+
+\- “Create new account” link  
+
+
+
+&nbsp;2️⃣ **Signup Screen**
+
+\- User registration form  
+
+\- Input fields for username, email, and password  
+
+\- Confirmation button  
+
+
+
+3️⃣ **Onboarding Screens**
+
+\- Introductory walkthrough for new users  
+
+\- Illustrations + short descriptions  
+
+\- “Next” \& “Get Started” buttons  
+
+
+
+4️⃣ **Home Screen**
+
+\- Search bar for food items  
+
+\- Categories (Pizza, Burgers, Drinks, etc.)  
+
+\- Popular and recommended dishes  
+
+\- Modern card-style layout  
+
+
+
+5️⃣ **Food Items Screen**
+
+\- List of available dishes  
+
+\- Images, prices, and ratings  
+
+\- Add-to-cart buttons  
+
+
+
+&nbsp;6️⃣ **Cart Screen**
+
+\- All selected items  
+
+\- Quantity control  
+
+\- Total price calculation  
+
+\- Checkout button  
+
+
+
+7️⃣ **Delivery Tracking Screen**
+
+\- Real-time order status  
+
+\- Delivery time estimate  
+
+\- Delivery partner details  
+
+
+
+8️⃣ **Success / Order Confirmation Screen**
+
+\- After placing an order  
+
+\- Green success tick  
+
+\- "Order Placed Successfully" message  
+
+
+
